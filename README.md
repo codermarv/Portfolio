@@ -40,36 +40,6 @@ portfolio/
 └── README.md           # Diese Datei
 ```
 
-## 🚀 Installation & Setup
-
-### Lokale Entwicklung
-
-1. **Repository klonen:**
-   ```bash
-   git clone https://github.com/codermarv/portfolio.git
-   cd portfolio
-   ```
-
-2. **Lokalen Server starten:**
-   ```bash
-   # Mit Python
-   python -m http.server 8000
-   
-   # Oder mit Node.js (live-server)
-   npx live-server
-   ```
-
-3. **Website öffnen:**
-   ```
-   http://localhost:8000
-   ```
-
-### Web-Hosting
-
-1. **Dateien hochladen** auf deinen Web-Server
-2. **Apache-Server** erforderlich für .htaccess URL-Rewriting
-3. **Domain** auf den Server zeigen lassen
-
 ## 🎯 Seiten-Übersicht
 
 ### 🏠 Home (`/`)
@@ -154,7 +124,7 @@ Dieses Projekt ist mein persönliches Portfolio. Alle Rechte vorbehalten.
 
 **Marvin Schneider**
 - 📧 E-Mail: [marvin@mar-vin.ch](mailto:marvin@mar-vin.ch)
-- 🌐 Website: [www.marvinschnieder.com](https://www.marvinschnieder.com)
+- 🌐 Website: [marvinschneider.com](https://www.marvinschneider.com)
 - 💼 LinkedIn: [Marvin Schneider](https://www.linkedin.com/in/marvin-schneider-690b30256/)
 - 🐙 GitHub: [@codermarv](https://github.com/codermarv)
 
