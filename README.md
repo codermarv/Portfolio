@@ -154,7 +154,7 @@ Dieses Projekt ist mein persönliches Portfolio. Alle Rechte vorbehalten.
 
 **Marvin Schneider**
 - 📧 E-Mail: [marvin@mar-vin.ch](mailto:marvin@mar-vin.ch)
-- 🌐 Website: [deine-domain.com](https://deine-domain.com)
+- 🌐 Website: [www.marvinschnieder.com](https://www.marvinschnieder.com)
 - 💼 LinkedIn: [Marvin Schneider](https://www.linkedin.com/in/marvin-schneider-690b30256/)
 - 🐙 GitHub: [@codermarv](https://github.com/codermarv)
 
